@@ -1,5 +1,7 @@
 # Hamster-Math
 Game I developed in 2022 to help teach preschoolers how to count and add!
 
-# Youtube Video Walking Through My Development Process
-https://youtu.be/PqcvKfZKOWc
+# Video Walking Through My Development Process
+https://github.com/user-attachments/assets/1bc92918-80e7-4e4d-9cb4-833e2ef16bbb
+
+https://youtu.be/PqcvKfZKOWc <- Link to the video on my channel!
