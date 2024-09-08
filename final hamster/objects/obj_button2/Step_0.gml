@@ -1,0 +1,9 @@
+event_inherited();
+inst_2E96692.text=obj_num.num3;
+if(inst_2E96692.text==obj_num.realNum2){
+	inst_2E96692.isButton=true;
+}
+inst_7601BE7F.text=obj_num.num4;
+if(inst_7601BE7F.text==obj_num.realNum2){
+	inst_7601BE7F.isButton=true;
+}
